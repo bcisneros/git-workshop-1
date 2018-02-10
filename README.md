@@ -3,3 +3,5 @@
 Welcome to Git
 
 Compile HelloGit.java and execute.
+
+A new line from remote editor.
